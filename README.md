@@ -20,4 +20,3 @@ boolean isBST(Node node)
 	return true;
 }
 
-// This code is contributed by shubhamsingh10
